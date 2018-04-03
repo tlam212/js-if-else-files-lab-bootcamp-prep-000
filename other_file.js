@@ -1,2 +1,2 @@
-console.lof(name)
+var index = require("./index.js")
 
